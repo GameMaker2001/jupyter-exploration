@@ -1,0 +1,6 @@
+During this assignment, I basically reviewed the fundamental concepts of object detection. I did however have to do extra research on different object detection models such as R-CNN, Faster R-CNN, SSD, and YOLO. But that just better helped me understand the trade offs between speed and accuracy in real-world applications. I also explored various tools and libraries, including TensorFlow, PyTorch, and OpenCV, which are commonly used for implementing these models.
+
+Creating the cheat sheet helped consolidate my knowledge in a concise and structured way. It forced me to focus on the most critical information while ensuring clarity and accessibility. This cheat sheet will be a valuable quick-reference guide for future projects, saving time when working on object detection tasks. It will also help in troubleshooting common issues, such as false positives, slow inference speeds, and inaccurate detections.
+
+Making the cheat sheet helped a lot ‘cause it made me break things down simple. Now, if I ever have do object detection again, I got a quick reference instead of digging through docs. It’s also useful for avoiding common mistakes like false positives or slow performance.
+
